@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanchit Vijay</h1>
-<h3 align="center">A Computer Science Student who is currently learning full-stack and DSA</h3>
+
+![readmeimg](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/c1e923d7-3b54-4818-a433-8e10e75ad1ad)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchiitvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sanchiitvijay" /> </p>
 
