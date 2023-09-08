@@ -1,5 +1,6 @@
 
-![readmeimg](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/c1e923d7-3b54-4818-a433-8e10e75ad1ad)
+![githubbanner](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/28a16821-4396-4c90-86a5-14d438362fea)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchiitvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sanchiitvijay" /> </p>
 
