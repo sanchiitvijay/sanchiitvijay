@@ -1,4 +1,5 @@
-![Hello, I am Sanchit Vijay](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/a8cc3be3-b3f4-4846-9865-4795d24e716d)
+
+![Untitled design](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/a31148cd-51d5-496f-911a-94ea93bef0d2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchiitvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sanchiitvijay" /> </p>
 
