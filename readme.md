@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,git,github,linux,ubuntu,vercel,vite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,redis,git,github,linux,figma,docker,ubuntu,vercel,bash,vite&perline=20)](https://skillicons.dev)
 
 
 
