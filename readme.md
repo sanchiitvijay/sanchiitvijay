@@ -5,8 +5,11 @@
 
 - 📫 How to reach me **sanchiitvijay@gmail.com**
 
-- ⚡ Fun fact **I sleep a lot.**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitvijay.vercel.app/)
 
+- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/0qr48czodx7idsxcbiqo5/resume_sanchit_vijay.pdf?rlkey=bpngu4nyh4rpb3gq0gb011fhw&st=js9w3mlt&dl=0)
+
+- ⚡ Fun fact **ore wa monkey d luffy, kaizoku ou ni naru otoko da !!**
 
 
 <h3 align="left">Connect with me:</h3>
