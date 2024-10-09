@@ -1,5 +1,5 @@
 
-![Untitled design](https://github.com/sanchiitvijay/sanchiitvijay/assets/71404343/a31148cd-51d5-496f-911a-94ea93bef0d2)
+![banner](https://github.com/user-attachments/assets/e2ec5b1b-6e75-488d-ae6c-2ac70b24aa6e)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchiitvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sanchiitvijay" /> </p>
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,redis,git,github,linux,figma,docker,ubuntu,vercel,bash,vite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,redis,git,github,linux,figma,docker,aws,ubuntu,obsidian,vercel,bash,vite&perline=20)](https://skillicons.dev)
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
