@@ -30,5 +30,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,redis,git,github,linux,figma,docker,aws,ubuntu,obsidian,vercel,bash,vite&perline=20)](https://skillicons.dev)
 
+[![An image of @sanchiitvijay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchiitvijay)](https://holopin.io/@sanchiitvijay)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
