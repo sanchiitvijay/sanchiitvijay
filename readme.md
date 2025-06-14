@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchiitvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sanchiitvijay" /> </p>
 
-- 📫 How to reach me **sanchiitvijay@gmail.com**
+- 📫 How to reach me **sanchitvijay2@gmail.com**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitvijay.vercel.app/)
 
-- ⚡ Fun fact **One Piece is Real!!**
+- ⚡ Fun fact **I sleep better after having coffee.!!**
 
 
 <h3 align="left">Connect with me:</h3>
