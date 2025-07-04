@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sanchitvijay.vercel.app/)
 
-- ⚡ Fun fact **I sleep better after having coffee.!!**
+- ⚡ Fun fact: **I sleep better after having coffee.!!**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,12 +20,13 @@
 <a href="https://www.codechef.com/users/sanchiit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanchiit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanchiitvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanchiitvijay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanchiitvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanchiitvijay" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sanchiitvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanchiitvijay" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,redis,git,github,linux,figma,docker,aws,ubuntu,obsidian,vercel,bash,vite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,react,bootstrap,django,flask,materialui,mongodb,mysql,postgres,tailwind,bash,express,nodejs,npm,postman,redux,tailwind,vscode,firebase,appwrite,redis,git,github,linux,figma,docker,aws,ubuntu,obsidian,vercel,bash,vite&perline=20)](https://skillicons.dev)
 
 [![An image of @sanchiitvijay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchiitvijay)](https://holopin.io/@sanchiitvijay)
 
